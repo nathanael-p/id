@@ -1,13 +1,13 @@
-This will be my tagline:
+This will be my tagline: Building the framework of the page.
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:Hello my name is Nathanael Pifer I am a web developer and this is my Portfolio.  I graduated from Pittsburgh Technical College with an Associate in Science Degree in Multimedia Technologies with a Concentration in Web Design and Development. I use HTML, CSS, and JavaScript to build responsive, fluid and intuitive websites. Growing up on a dairy farm taught me about hard work and getting the job done on time. I love sitting down and coding pages for hours on end and trying to solve the problem that each project brings. As a developer I build the framework of the page and make it function as intended in a nice modern fashion that will be pleasing and easy for anyone to use. Below are some examples of my previous work that I did in college on my own. I also built the framework for other team projects like the Elevated Learning Consultants site. 
 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site:Deep Sea Aquariums e-commerance
+Talent Showcased: Interactive Design using JavaScript and CSS
+Objective: Let users customize a fish tank to buy.
+Target Audience: Adults, parents
 Highlights: 
-1)
-2)
-3)
+1) Use of JavaScript to add items to the cart and preview area.
+2) Interactive menu that has a smooth animation when clicked.
+3) CSS transition to animate the fish across the preview tank.
