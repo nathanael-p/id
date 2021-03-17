@@ -1,1 +1,1 @@
-Paste all the body copy from your style comps here:
+Deep Sea Aquariums E-CommerceTalant Showcased: Interactive DesignObjective: Let users customize and buy a fish tankTarget Audiance: Adults, ParentsHighlights: 1. As the user clicks to add items to the cart, stores the user choices in localStorage, and puts text and graphics in the preview area.2. Interactive menu has smooth animation when clicked3. CSS transistions were incorperated to animate the fish accross the preview tank.
